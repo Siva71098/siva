@@ -1,10 +1,10 @@
 ### File Location:
-      "data1","data2"."data3" are the inputs in inputdata folder,Which is .json format.
+      * "data1","data2"."data3" are the inputs in inputdata folder,Which is .json format.
 ### Code File:
-       JsonMergeFiles.java is the source code.
+      * JsonMergeFiles.java is the source code.
 ### output:
-        To display the output in output folder,which is also a .json format.
+      * To display the output in output folder,which is also a .json format.
 ### Operating System:
-         Windows
+       * Windows
 ### Maximum File Size:
-         upto 4000 bytes.
+       * upto 4000 bytes.
