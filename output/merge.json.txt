@@ -1,0 +1,1 @@
+{"student":[{"name":"siva","id":"146","department":"IT"},{"name":"sanjay","id":"130","deparment":"cse"},{"name":"siddharth","id":"145","department":"ECE"},{"name":"nishanth","id":"094","department":"EEE"},{"name":"kishore","id":"174","department":"IT"},{"name":"Bharath","id":"150","department":"MCT"}]}
