@@ -1,9 +1,9 @@
 ### File Location:
-      "data1","data2"."data3" are the inputs in inputdata folder,Which is .json format.
+      "input1","input2"."input3" are the inputs in inputdata folder,Which is .json format.
 ### Code File:
       JsonMergeFiles.java is the source code.
 ### output:
-      To display the output in output folder,which is also a .json format.
+      To display the output in output folder,which is merge.json.txt.
 ### Operating System:
       Windows
 ### Maximum File Size:
