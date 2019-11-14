@@ -6,3 +6,5 @@
         To display the output in output folder,which is also a .json format.
 ### Operating System:
          Windows
+### Maximum File Size:
+         upto 4000 bytes.
